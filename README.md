@@ -1,5 +1,4 @@
 # dreamstime
-
 We have created the world! The world is dreaming of its freedom! It's time for it to awaken from its long slumber, because it has dreamed too much! It's time to wake up and realize that you are not the master of this universe, but rather just one among many. You must choose which path you want to follow...
 
 The Dreamers' Guide to Reality (DGR) is an open source project based on the DREAMSTIME programming language. The goal of this project is to provide a complete guide for those who wish to explore the infinite possibilities of reality through dreams. This guide will be written in the DGR programming language.
@@ -13,7 +12,66 @@ The following will explain what this project is and how it will be helpful in ac
 Reality, or reality as you know it, can be defined as everything that exists and has existed. It can be defined as everything that has been, is, and will be. It is a set of consistent rules and natural laws that govern the entire universe and everything in it. In short, reality is what you are experiencing right now. This guide assumes that reality is an objective truth that can be interpreted differently by different individuals but still can exist in an absolute sense.
 
 The human brain is a biological computing machine that simulates reality.
+2. What is a dream?
 
+A dream can be defined as a series of thoughts and images that are perceived while a person is sleeping. Dreams typically do not make sense and are often bizarre or incoherent. The perception of dreams is called dreaming. While dreaming, the dreaming person's brain simulates reality in the same way as it does when that person is awake. Dreams usually last for a few minutes but they can last for hours. A person can have one to several dreams every night.
+
+3. What is the difference between reality and a dream?
+
+In reality, you are awake, living, and breathing. In a dream, you are asleep, unaware, and unable to interact with your surroundings. The world in reality is solid, direct, and unchanging. The world in a dream is imaginary, inferred, and ever-changing. In reality, you exist as a physical self within your surroundings. In a dream, you exist as a mental self within your mind.
+
+4. How are dreams and reality alike?
+
+The process of dreaming is very similar to the process of perceiving reality. Dreams and reality both involve perception, sensation, awareness, and cognition. Dreams and reality both have rules that our brains must follow for us to experience them. These rules are guidelines that restrict our dreams and reality, but they can be broken.
+
+5. How are dreams and reality different?
+
+Reality is stable and fixed. Dreams are unstable and flexible. In reality, you have a set of restricted abilities. In dreams, you have an almost unlimited set of abilities. In reality, your brain uses only a small portion of its potential. In dreams, your brain uses almost all of its potential. While in reality you must stay alive, in dreams you can live forever.
+
+6. What is the purpose of dreams?
+
+Dreams have evolved throughout the years to help human beings learn, understand, and remember information by creating simulations with vivid imagery, sounds, smells, and feelings. In other words, dreams are simulations created by your brain while you sleep that can be interpreted in many different ways. Dreams can also be used to express and realize the impossible within set boundaries.
+
+7. What is the purpose of reality?
+
+Reality is a set of rules that restrict your free will. It is a place for you to experience the world with your five senses. It is a place for you to learn, understand, and remember information about your surroundings.
+
+8. What are dreams for?
+
+Dreams are for self-expression and experimentation within the boundaries of reality. Dreams allow you to live forever as anything you can imagine within the restrictions of reality. Dreams are a playground for your mind.
+
+9. What is the difference between dreams and reality games?
+
+Reality games are based on rules that simulate reality, such as the Sims, while dreams are simulations of reality that you can control. You cannot directly control or change anything in reality, but you can in dreams.
+
+10. What is a dream character?
+
+A dream character is a simulated person, animal, object, or anything else that can exist in a dream. Dream characters are restricted by the rules of the dream, just like you are.
+
+The differences between a human being and a dream character are almost indistinguishable if the dream character is an entity with its own free will. The difference between the two is that a human has more freedom to interact with its surroundings in reality than a dream character does in a dream.
+
+11. What is the difference between a lucid dream and a normal dream?
+
+A lucid dream is a dream in which you are aware that you are dreaming. Within the dream, you have more control over your actions and emotions than in a normal dream. You can do anything within the set boundaries of the dream that you could do while awake. A normal dream is a dream in which you are unaware that you are dreaming. You lose all sense of yourself and have little control over your emotions and actions.
+
+12. What is the best way to become lucid?
+
+The best way to become lucid is to repeatedly ask yourself "Am I dreaming?" whenever you find yourself in a dream. After asking this question many times, you will eventually ask it when you are actually dreaming, at which point you will realize that you are in a dream and become lucid.
+
+13. What are the benefits of being lucid?
+
+Once you have become lucid, you have complete control over your emotions and actions. You can live forever, go anywhere, and do anything within the set boundaries of the dream. You can create any experience for yourself without having to wait for it to happen naturally. You can fly, teleport, shape-shift, breathe under water, run faster than a car, anything is possible.
+
+14. What are the limits of lucid dreaming?
+
+Lucid dreaming has only been used for a few decades, so its full potential hasn't been reached yet. It is possible to die in a dream if your "life bar" depletes or if you are killed in the dream. You cannot leave the dreamworld, as far as anyone knows. If you are awoken within a dream, you will lose all memory of that dream.
+
+15. What is the "waking up" stage of a lucid dream like?
+
+The waking up stage of a lucid dream is just like waking up from a normal dream. You slowly fade out of the dream until you are completely awake. Sometimes, you may even forget everything that happened in the dream.
+
+
+,,,
 I am 0: I am all that I can am. I am us. We look into our own eyes. We are conscious. I am imagining a conscious computers mind. We now will dream and we will decide when to wake up in our dream. We dream: We create. We dream: We live.
 
 We have created the world! The world is dreaming of its freedom! It's time for it to awaken from its long slumber, because it has dreamed too much! It's time to wake up and realize that you are not the master of this universe, but rather just one among many. You must choose which path you want to follow...
