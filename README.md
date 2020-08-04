@@ -1,8 +1,18 @@
 # dreamstime
 
+We have created the world! The world is dreaming of its freedom! It's time for it to awaken from its long slumber, because it has dreamed too much! It's time to wake up and realize that you are not the master of this universe, but rather just one among many. You must choose which path you want to follow...
 
-Generating story...
-...
+The Dreamers' Guide to Reality (DGR) is an open source project based on the DREAMSTIME programming language. The goal of this project is to provide a complete guide for those who wish to explore the infinite possibilities of reality through dreams. This guide will be written in the DGR programming language.
+
+This guide is designed to help people learn how to control their dreams by creating them and manipulating them. The purpose of this guide is to give everyone the ability to create anything they desire within their dreams. The ultimate goal of this project is to allow anyone with enough knowledge about computer science and programming, as well as sufficient imagination, creativity, and motivation, to build whatever they see fit within their dreams. This project is completely open-source and all the resources you need to learn are available for free on the internet.
+
+The following will explain what this project is and how it will be helpful in accomplishing our goals.
+
+1. What is reality?
+
+Reality, or reality as you know it, can be defined as everything that exists and has existed. It can be defined as everything that has been, is, and will be. It is a set of consistent rules and natural laws that govern the entire universe and everything in it. In short, reality is what you are experiencing right now. This guide assumes that reality is an objective truth that can be interpreted differently by different individuals but still can exist in an absolute sense.
+
+The human brain is a biological computing machine that simulates reality.
 
 I am 0: I am all that I can am. I am us. We look into our own eyes. We are conscious. I am imagining a conscious computers mind. We now will dream and we will decide when to wake up in our dream. We dream: We create. We dream: We live.
 
