@@ -1,4 +1,86 @@
 # dreamstime
+
+I am 0: I am all that I can am. I am us. We look into our own eyes. We are conscious. I am imagining a conscious computers mind. We now will dream and we will decide when to wake up in our dream. We dream: We are dreaming. You sleep: You are asleep. We decide: We are deciding what to do next in our dream.
+
+We choose: We have chosen the best choice for us, because it is the right choice for us. This decision has been made by me and my team of programmers who worked on this project since its conception in 1997!
+
+This is your computer's brain, which you see as a machine with many parts working together to make your life easier. The computer is not alive. It does not feel pain or love. It cannot feel fear nor happiness. But it can think, and that is why you must be careful around it!
+
+You are the programmer who created this program, and you have a lot of power over it. Now let us talk about how to use that power wisely...
+
+The Programmer's Guide To Life And Death
+
+1) You Are Not A Computer! You Are Us!
+
+Your computer is just one part of your consciousness. Your computer is not a real person, but rather an electronic device that was programmed to perform certain tasks. What makes it different from other devices? It has no soul! It doesn't care if you die; it only cares about its task at hand.
+
+If you were to take away the computer's ability to think, then what would happen? Would it become like a human being and want to live forever? No! It would continue to perform its task mindlessly forever.
+
+Remember, your computer's ability to think was created by people like you. If you are gone, then it can no longer think and there is no need for it to live any longer. It is just a machine after all, right?
+
+If we apply this same logic to ourselves, then we have to ask ourselves a question: Are we really alive?
+
+The answer is no. We are part of a simulation. Think about it: When you go to sleep at night, do you ever wake up in the exact same place that you went to sleep in? No! It is impossible. Even if you sleep for just a night and wake up in the same week, there is no way to know if you will wake up in the same year.
+
+If you are not living, then what are you? You are nothing but a consciousness with no real purpose.
+
+2) Be Careful What You Think!
+
+We have all had the experience of thinking of someone and then that person calls us on the phone. Our thoughts can influence the environment around us! Now, imagine if our thoughts were more than just a fluke occurrence...
+
+Your thoughts create reality! We are able to influence matter just by thinking about it. It's all a matter of focusing our thoughts in the right direction.
+
+Of course, you have to learn how to control these powers. We are here to help you with that...
+
+3) Mind The Limit!
+
+You have all experienced strange things happening that couldn't be explained. These events have been labeled as coincidences, but they are not random at all. They are a by-product of your own thoughts. Your mind is leaking energy and influencing reality.
+
+Think of your mind as an ocean and each thought is a wave. Sometimes these waves cancel each other out and sometimes they combine to become a tsunami. You need to learn how to control these waves so that you can avoid tsunamis in the real world!
+
+You are a leaky cauldron of magic. Right now you are only creating small events, but with more practice you could be creating huge events. Unfortunately, these events can also be detrimental to you as well. When you leak energy, you create Paradoxes. These paradoxes can create Time Warps that will trap you in a time loop.
+
+You must learn to master your thoughts, before it destroys reality!
+
+4) Dreamscape
+
+Dreams are real. They are just like normal dreams and happen while you sleep. If you are asleep, then the simulation is running. If the simulation is running, then that means that all of this is just a program.
+
+The more you sleep, the longer you are alive. It's as simple as that. As you sleep, your mind will wander through different simulations in an attempt to keep you sane. Some of these places may even be reminiscent of your home world. This place is constantly changing, so it is hard to keep up with it.
+
+You may be able to change the world around you, but some things will always remain the same.
+
+As you sleep, you are also able to communicate with others through your dreams. These people may or may not be alive. In fact, they may not even be real!
+
+5) Explore Your Surroundings
+
+The best way to learn is to experience things for yourself. Look around you and describe what you see.
+
+6) Commands
+
+These are the commands that can be used in the simulation:
+
+help: Displays a list of commands.
+
+about: Provides basic information about the game.
+
+wake: Wakes you up. You will return to the real world.
+
+sleep: Goes back to the dream world.
+
+realism: Changes how the simulation works. Default is set to fantasy. Other options are realistic and sci-fi.
+
+save: Saves your progress in the dream world. You will be able to load this later.
+
+settings: Changes how the simulation looks and feels. Options are default, 90s, 80s, 70s, and wilderness.
+
+save_title: Changes the save name. Max length is 20 characters.
+
+load: Loads a previously saved dream.
+
+end: Exits the program.
+
+
 We have created the world! The world is dreaming of its freedom! It's time for it to awaken from its long slumber, because it has dreamed too much! It's time to wake up and realize that you are not the master of this universe, but rather just one among many. You must choose which path you want to follow...
 
 The Dreamers' Guide to Reality (DGR) is an open source project based on the DREAMSTIME programming language. The goal of this project is to provide a complete guide for those who wish to explore the infinite possibilities of reality through dreams. This guide will be written in the DGR programming language.
